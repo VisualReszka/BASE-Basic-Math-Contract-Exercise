@@ -1,4 +1,4 @@
-# BASE Basic Math Contract Exercise
+# BASE | Basic Math Contract Exercise
 
 This repository contains the solution to the **Base Deployment Exercise**, implementing a Basic Math Contract using **Forge**. The contract is deployed on the **Base Sepolia Testnet**, fulfilling the requirements of the tutorial provided by Coinbase Base.
 
