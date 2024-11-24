@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BASE | Basic Math Contract Exercise
 
 This project involves creating a Basic Math Contract using Forge, following Coinbase Base's tutorial.
