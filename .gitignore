@@ -18,3 +18,6 @@ lib/
 
 # VS Code settings
 .vscode/
+
+# Ignore constructor arguments to protect sensitive data
+constructor_args.json
