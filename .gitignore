@@ -13,7 +13,9 @@ docs/
 .env
 
 # Dependencies
-lib/
+/lib/*
+!/lib/openzeppelin-contracts
+
 
 # VS Code settings
 .vscode/
