@@ -18,5 +18,4 @@ This project is based on the Coinbase Base tutorial. All rights to the original 
 ---
 
 ### Progress
-1 of 13 exercises completed  
-[Track Progress](https://docs.base.org/base-learn/progress/)
+1 of 13 exercises completed
